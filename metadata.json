@@ -1,0 +1,8 @@
+{
+  "name": "TerraForm Sovereign",
+  "description": "TerraForm Sovereign - A Think Tank Solutions AI Platform. A premium marketplace and AI-powered estimation platform for all approved and vetted businesses offering an array of individual, group, personal, business, corporate, systemic design, and AI-Agentic consumer services. Grounded in Everyday AI Helpers, Friendly Co-Working, Peaceful Workflows, and Creative Systems, it is designed for the everyday business owner, professional, student, and lifelong learner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

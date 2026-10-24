@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600&family=Montserrat:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-tt-navy: #001f3f;
+  --color-tt-gold: #D4AF37;
+  --color-tt-amber: #FFBF00;
+  --color-tt-ivory: #F5F0E8;
+  --color-tt-cream: #FBF7F0;
+  --color-tt-midnight: #1A2744;
+  --color-tt-charcoal: #2C2C2C;
+  --color-tt-green: #2f7d52;
+  --color-tt-red: #a83a40;
+  
+  --font-sans: "Montserrat", ui-sans-serif, sans-serif;
+  --font-serif: "Playfair Display", Georgia, serif;
+}
+
+/* Custom Watermark style for interior sections */
+.tts-watermark {
+  background-image: radial-gradient(rgba(212, 175, 55, 0.05) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
